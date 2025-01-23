@@ -5,7 +5,7 @@ He enjoins helping Open-Source projects with new Java Language Features and Migr
 
 * 🎙️ [Speaking history](https://mboegie.dev/#presenting)
 * 🧑‍💻 [Writings](https://mboegie.dev/#writing)
-* 📂 [Personal portfolio[(https://mboegie.dev/)
+* 📂 [Personal portfolio](https://mboegie.dev/)
 
 ### Find me
 
