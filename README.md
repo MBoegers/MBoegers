@@ -1,16 +1,14 @@
-## Hi there 👋
+Staff Software Engineer [Moderne Inc.](https://www.moderne.ai/) working on [OpenRewrite](https://docs.openrewrite.org/), Architect, Java and Migration Exert.
+He enjoins helping Open-Source projects with new Java Language Features and Migrations in every direction.
 
-<!--
-**MBoegers/MBoegers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Find stuff
 
-Here are some ideas to get you started:
+* Speaking history https://mboegie.dev/#presenting
+* Writings https://mboegie.dev/#writing
+* Personal portfolio https://mboegie.dev/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find me
+
+[merlin-boegershausen](https://www.linkedin.com/in/merlin-boegershausen/)
+[@MBoegie.dev](https://bsky.app/profile/mboegie.dev)
+[@MBoegie@fosstodon.org](https://fosstodon.org/@MBoegie)
