@@ -12,3 +12,5 @@ He enjoins helping Open-Source projects with new Java Language Features and Migr
 [merlin-boegershausen](https://www.linkedin.com/in/merlin-boegershausen/)
 [@MBoegie.dev](https://bsky.app/profile/mboegie.dev)
 [@MBoegie@fosstodon.org](https://fosstodon.org/@MBoegie)
+
+![Oracle Ace Banner](linked_associate_light_1920%20×%201080.png)
