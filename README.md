@@ -3,9 +3,9 @@ He enjoins helping Open-Source projects with new Java Language Features and Migr
 
 ### Find stuff
 
-* Speaking history https://mboegie.dev/#presenting
-* Writings https://mboegie.dev/#writing
-* Personal portfolio https://mboegie.dev/
+* 🎙️ [Speaking history](https://mboegie.dev/#presenting)
+* 🧑‍💻 [Writings](https://mboegie.dev/#writing)
+* 📂 [Personal portfolio[(https://mboegie.dev/)
 
 ### Find me
 
